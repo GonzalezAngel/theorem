@@ -1,0 +1,7 @@
+# Módulos necesarios para la página
+# El proyecto está creado en un entorno virtual
+    # Desde cmd se activa entrando a la carpeta Scripts, creada al crear el entorno virtual, y ejecutar activate.bat
+
+# Hay que asegurarnos de tener actualizado pip, de no ser así ejecutar: python -m pip install --upgrade pip
+
+Django==3.2.3
